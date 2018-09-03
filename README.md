@@ -27,7 +27,7 @@ PIPO destaca por su estabilidad, dado que es bajo y su centro de masa esta próx
 
 ### Diagrama funcional
 
-(/diagrama/Diagrama_Electromecánico_0001.jpg)
+![Best Diagrama](/diagrama/Diagrama_Electromecánico_0001.jpg)
 
 ### Paso a Paso: Haga su propio PIPO con estos 10 simples pasos.
           1°: Descargar toda la wiki
