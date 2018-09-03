@@ -1,8 +1,15 @@
-# <Título del proyecto> - <Año>
-<Breve descripción del proyecto. Todo lo que esté entre llaves debe ser editado por ustedes>
+# <PIPO, el prototipo> - <2018>
+<Nadie pudo presagiar la llegada de un grande, un hijo de luchadores, destinado a caer para luego elevarse con imponencia. Sí, de él hablamos, el único, el inigualable...
+
+          P I P O
+          I≡ L
+          P R O T O T I P O
+    P I P O
+ >
+    
 <Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
 
-![Robot Ejemplo](/multimedia/PIPO_uwu.jpg)
+![Robot Ejemplo](/multimedia/PIPO_uwu.jpeg)
 
 
 
