@@ -1,16 +1,12 @@
-# <PIPO, el prototipo> - <2018>
-<Nadie pudo presagiar la llegada de un grande, un hijo de luchadores, destinado a caer para luego elevarse con imponencia. Sí, de él hablamos, el único, el inigualable...
+# PIPO, el prototipo - 2018
+Nadie pudo presagiar la llegada de un grande, un hijo de luchadores, destinado a caer para luego elevarse con imponencia. Sí, de él hablamos, el único, el inigualable...
 
           P I P O
           I≡ L
           P R O T O T I P O
     P I P O
- >
-    
-<Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
 
 ![Robot Ejemplo](/multimedia/PIPO_uwu.jpeg)
-
 
 
 ## Integrantes
@@ -33,7 +29,7 @@ PIPO destaca por su estabilidad, dado que es bajo y su centro de masa esta próx
 
 
 ### *BONUS*: Paso a Paso
-<Explicar brevemente el paso a paso de cómo construir el battlebot.>
-
+1°: Descargar toda la wiki
+2°: Conseguir una cortadora láser y cortar según el plano (/planos/Armazón_PIPO/Plano_PIPO_F.pdf)
 ## Licencia
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licencia Creative Commons Atribución-NoComercial 4.0 Internacional</a>.
