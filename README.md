@@ -27,8 +27,9 @@ PIPO destaca por su estabilidad, dado que es bajo y su centro de masa esta próx
 
 ### Diagrama funcional
 
+(/diagrama/Diagrama_Electromecánico_0001.jpg)
 
-### Paso a Paso
+### Paso a Paso: Haga su propio PIPO con estos 10 simples pasos.
           1°: Descargar toda la wiki
           2°: Conseguir una cortadora láser y cortar según Plano_PIPO_F (/planos/Armazón_PIPO/Plano_PIPO_F.pdf)
           3°: Tener 6hrs disponibles e imprimir en una impresora 3D los archivos dentro de la dirección /planos/Arma_Construida.
