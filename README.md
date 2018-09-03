@@ -2,28 +2,28 @@
 <Breve descripción del proyecto. Todo lo que esté entre llaves debe ser editado por ustedes>
 <Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
 
-![Robot Ejemplo](/multimedia/robot_ejemplo.png)
+![Robot Ejemplo](/multimedia/PIPO_uwu.jpg)
 
 
 
 ## Integrantes
-- <Integrante 1> - <Facultad>
-- <Integrante 2> - <Facultad>
-- <Integrante 3> - <Facultad>
-- <Integrante 4> - <Facultad>
+- Fernanda Sanchirico - Fcfm
+- Lucas Amion - Fcfm
+- Vicente Alarcón - Fcfm
+- Franco Roa - FAU
 
 
 ## Descripción del proyecto
 
 ### Estrategia utilizada
 #### Ofensiva
-<Explicar brevemente el arma utilizada.>
+Hélice con aspas en forma de prisma con base triangular, de tal forma que la fuerza del impacto se condense en un área menor (+Presión en el punto de choque). El mecanismo que hace rotar el arma es un sistema de polea con correa dentada ligado a un motor.
 
 #### Defensiva
-<Explicar el modo de defensa del robot.>
+PIPO destaca por su estabilidad, dado que es bajo y su centro de masa esta próximo al piso. Así el robot es ágil y sus movimientos precisos gracias al código y método de control empleado.
 
 ### Diagrama funcional
-<Diagrama general de funcionamiento. Se sugiere un esquema de sistemas, completo.>
+
 
 ### *BONUS*: Paso a Paso
 <Explicar brevemente el paso a paso de cómo construir el battlebot.>
