@@ -29,17 +29,17 @@ PIPO destaca por su estabilidad, dado que es bajo y su centro de masa esta próx
 
 
 ### Paso a Paso
-1°: Descargar toda la wiki
-2°: Conseguir una cortadora láser y cortar según Plano_PIPO_F (/planos/Armazón_PIPO/Plano_PIPO_F.pdf)
-3°: Tener 6hrs disponibles e imprimir en una impresora 3D los archivos dentro de la dirección /planos/Arma_Construida.
-4°: Conseguir dos pernos de 5cm aprox. de longitud con 6mm de diámetro, dos tuercas de 6mm y 10 golillas.
-5°: Cargar en su placa de Arduino NANO atmega328v el código a utilizar.
-6°: Instalar la batería a usar en la cara inferior de la base de su PIPO, realizar una perforación para el paso de los cables hacia los componentes electrónicos.
+          1°: Descargar toda la wiki
+          2°: Conseguir una cortadora láser y cortar según Plano_PIPO_F (/planos/Armazón_PIPO/Plano_PIPO_F.pdf)
+          3°: Tener 6hrs disponibles e imprimir en una impresora 3D los archivos dentro de la dirección /planos/Arma_Construida.
+          4°: Conseguir dos pernos de 5cm aprox. de longitud con 6mm de diámetro, dos tuercas de 6mm y 10 golillas.
+          5°: Cargar en su placa de Arduino NANO atmega328v el código a utilizar.
+          6°: Instalar la batería a usar en la cara inferior de la base de su PIPO, realizar una perforación para el paso de los cables               hacia los componentes electrónicos.
 ![Explicación](/planos/Armazón_PIPO/Explicación_construcción.png)
-7°: Unir con soportes los dos puentes H a usar (L298N) e instalarlos según la imágen adjunta.
-8°: Intentar hacer todo lo que sugiere la imágen y llegar a algo parecido a lo de la primera imágen.
-9°: Realice todas las conexiones pertientes especificadas en la carpeta de diagramas.
-10°: Juegue y sea feliz como lo somos nosotros con PIPO uwu.
+          7°: Unir con soportes los dos puentes H a usar (L298N) e instalarlos según la imágen adjunta.
+          8°: Intentar hacer todo lo que sugiere la imágen y llegar a algo parecido a lo de la primera imágen.
+          9°: Realice todas las conexiones pertientes especificadas en la carpeta de diagramas.
+          10°: Juegue y sea feliz como lo somos nosotros con PIPO uwu.
 
 -------ADVERTENCIA: Un error en las conexiones de la batería puede transformar a su PIPO en una chimenea, cuidado uwu.
 
