@@ -1,5 +1,7 @@
 # PIPO, el prototipo - 2018
-Nadie pudo presagiar la llegada de un grande, un hijo de luchadores, destinado a caer para luego elevarse con imponencia. Sí, de él hablamos, el único, el inigualable...
+Nadie pudo presagiar la llegada de un grande, un hijo de luchadores, destinado a caer para luego elevarse con imponencia (Sí Cris y Majo, a ustedes les hablo), nacido en semana 15, creado a partir del MDF más fino extraido de los altos arboles milenarios del norte de Escocia Occidental, talado por Odin, forjado por Thor, cables unidos por la abrazadora aleación entre adamatium y vibranium extraidos de las inospitas profundidades de las minas subterraneas a tajo abierto de Wakanda, así es... estaño.
+Preparense, tomen su mejor mantita, abracen muy bien a su mami, porque aquí viene el temor del este, la razón por la cual se pulverizarán todos sus contricantes, la pesadilla de la calle Beauchef, que se hace sopa con las tortugas, que espanta al diablo con su presencia, que aplasta a los insectos sin clemencia. 
+Sí, de él hablamos, el único, el inigualable...
 
           P I P O
           I≡ L
@@ -45,6 +47,8 @@ PIPO destaca por su estabilidad, dado que es bajo y su centro de masa esta próx
 
 -------ADVERTENCIA--------------
 - Un error en las conexiones de la batería puede transformar a su PIPO en una chimenea, cuidado uwu.
+
+Advertencia para los contrincantes: El gorrito de fiesta es sólo el comienzo.
 
 ## Licencia
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licencia Creative Commons Atribución-NoComercial 4.0 Internacional</a>.
